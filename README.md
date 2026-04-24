@@ -3,7 +3,8 @@
 A glassmorphism weather dashboard built with React (CDN), Tailwind CSS, and custom SVG icons.
 Designed as a frontend template — drop in your own weather API data and background image.
 
-![preview](assets/preview.png)
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/b5bed9de-cf66-40e1-8161-3b081d34fa39" />
+
 
 ## Features
 
